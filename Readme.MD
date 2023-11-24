@@ -1,7 +1,7 @@
 # Sivi AFD 2.0 parser
 
 The goal of this parser is to easily create example JSON files for every entity type. 
-The search functionality at https://www.sivi.org/standaarden/sivi-all-finance-standaard/afd-online-2-0/ is not really developer's friendly.
+The search functionality at https://www.sivi.org/standaarden/sivi-all-finance-standaard/afd-online-2-0/ is not really developer friendly.
 
 Luckily, Sivi also provides the data catalog and codelist as JSON files. 
 But those files are quite big. 
